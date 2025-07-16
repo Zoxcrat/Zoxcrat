@@ -98,12 +98,21 @@ Check some of my public projects below!
   
 ---
 
-### 🛰️ Orbyte – My Studio/Startup
+<p align="center">
+  <img src="https://res.cloudinary.com/dqsrs3fpv/image/upload/v1752683932/portada_orbyte_lnvnxp.png" alt="Orbyte Banner" width="100%" />
+</p>
 
- At **Orbyte**, we build scalable digital products with a focus on clean architecture, backend robustness, and great user 3D experiences.  
+<h2 align="center">🛰️ Orbyte – My Studio/Startup</h2>
 
-🌐 Website: [orbyte.studio](https://orbyte.studio)  
-📫 Contact: orbyte.ar@gmail.com
+<p align="center">
+  At <strong>Orbyte</strong>, we build scalable digital products with a focus on clean architecture,<br>
+  backend robustness, and great user 3D experiences.
+</p>
+
+<p align="center">
+  🌐 <a href="https://orbyte.studio">orbyte.studio</a> | 📫 orbyte.ar@gmail.com
+</p>
+
 
 ---
 
