@@ -3,71 +3,66 @@
 </p>
 
 
-<h1 align="center">Hola 👋, soy Franco</h1>
+<h1 align="center">Franco Pedro Zanier</h1>
 <h3 align="center">Software Engineer | Backend & Fullstack Developer | Clean Architecture Advocate</h3>
 
-<p align="right">
-🌐 Idiomas: 
-<a href="/README.md">Español</a> | 
-<a href="/README.en.md">English</a>
-</p>
+---
+
+###  About Me
+
+I'm a software engineer passionate about building scalable and maintainable web applications.  
+While I specialize in backend development (Node.js, Java Spring Boot), I also have experience building fullstack solutions with React.
+
+My focus is on clean code, modular architecture, testing, and efficient team workflows (CI/CD, Git, code reviews, documentation, etc).
 
 ---
 
-### 🧠 Sobre mí
+###  Tech Stack
 
-Soy desarrollador de software con experiencia en el desarrollo de soluciones web escalables y mantenibles. Me especializo en backend (Node.js, Java Spring Boot) pero también tengo experiencia fullstack con React.  
-
-Me interesa especialmente el diseño de arquitecturas limpias, la aplicación de patrones de diseño, el uso de metodologías ágiles y buenas prácticas de desarrollo (CI/CD, testing, documentación, code reviews, etc).
-
----
-
-### 🛠️ Tech Stack
-
-#### Lenguajes y frameworks:
+#### Languages & Frameworks:
 - **Java**, **Spring Boot**, **Node.js**, **Express**
 - **React**, **JavaScript**, **HTML/CSS**
 - **SQL (PostgreSQL/MySQL)**, **MongoDB**
 
-#### Arquitectura y prácticas:
-- Arquitectura limpia (Clean Architecture), DDD, TDD, principios SOLID
-- Microservicios, APIs RESTful, monolitos modulares
+#### Architecture & Practices:
+- Clean Architecture, DDD, TDD, SOLID principles
+- Microservices & Modular monoliths
 - Docker, Git, GitHub Actions
-- Scrum, Kanban, CI/CD
+- Agile methodologies: Scrum, Kanban
+- Testing (E2E, Integration, Unit)
+- Swagger Documentation.
+- RESTful APIs Design
+- Authentication (JWT, OAuth 2.0)
 
-#### Cloud y herramientas:
-- AWS (nivel básico/intermedio)
-- Docker
-- GitHub Actions
-- Postman, Insomnia
+#### Cloud & Tooling:
+- AWS (basic/intermediate)
+- Docker & GitHub Actions
+- Postman
+  
+---
+
+### 🛰️ Orbyte – My Studio/Startup
+
+🚀 At **Orbyte**, we build scalable digital products with a focus on clean architecture, backend robustness, and great user 3D experiences.  
+
+🌐 Website: [orbyte.studio](https://orbyte.studio)  
+📫 Contact: orbyte.ar@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🎯 Intereses profesionales
-
-- Arquitectura de software escalable
-- Cultura DevOps y automatización
-- Cloud-native applications
-- Software Craftsmanship
-- Mentoría técnica y liderazgo de equipo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🌐 Conectemos
+###  Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://tusitio.dev)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francozanier/?locale=en_US)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](francozanier2009@gmail.com)
 
 ---
 
-> _“El código es como el humor: cuando tienes que explicarlo, es malo.”_
 
