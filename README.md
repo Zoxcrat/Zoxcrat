@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋, soy Franco</h1>
 <h3 align="center">Software Engineer | Backend & Fullstack Developer | Clean Architecture Advocate</h3>
 
+<p align="right">
+🌐 Idiomas: 
+<a href="/README.md">Español</a> | 
+<a href="/README.en.md">English</a>
+</p>
+
 ---
 
 ### 🧠 Sobre mí
