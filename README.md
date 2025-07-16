@@ -80,6 +80,20 @@ Check some of my public projects below!
   </a>
 </p>
 
+🏗️ Architecture & Best Practices
+🧱 Clean Architecture, DDD, TDD, SOLID principles
+
+🔗 RESTful API Design & Authentication (JWT, OAuth 2.0)
+
+🔧 Swagger for API Documentation
+
+🧪 Testing: Unit, Integration, E2E
+
+🧩 Microservices & Modular Monoliths
+
+🔄 Agile: Scrum / Kanban
+
+📦 CI/CD with GitHub Actions
   
 ---
 
