@@ -79,6 +79,7 @@ Check some of my public projects below!
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+<br/>
 
 🏗️ Architecture & Best Practices
 🧱 Clean Architecture, DDD, TDD, SOLID principles
