@@ -15,6 +15,8 @@ While I specialize in backend development (Node.js, Java Spring Boot), I also ha
 
 My focus is on clean code, modular architecture, testing, and efficient team workflows (CI/CD, Git, code reviews, documentation, etc).
 
+Check some of my public projects below!
+
 ---
 ### Tech Stack
 
