@@ -43,7 +43,7 @@ My focus is on clean code, modular architecture, testing, and efficient team wor
 
 ### 🛰️ Orbyte – My Studio/Startup
 
-🚀 At **Orbyte**, we build scalable digital products with a focus on clean architecture, backend robustness, and great user 3D experiences.  
+ At **Orbyte**, we build scalable digital products with a focus on clean architecture, backend robustness, and great user 3D experiences.  
 
 🌐 Website: [orbyte.studio](https://orbyte.studio)  
 📫 Contact: orbyte.ar@gmail.com
