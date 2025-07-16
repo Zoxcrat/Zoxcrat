@@ -1,3 +1,8 @@
+<p align="right">
+🌐 Languages: <a href="/README.md">English</a> | <a href="/README.es.md">Español</a>
+</p>
+
+
 <h1 align="center">Hola 👋, soy Franco</h1>
 <h3 align="center">Software Engineer | Backend & Fullstack Developer | Clean Architecture Advocate</h3>
 
