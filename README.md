@@ -4,13 +4,13 @@
 
 
 <h1 align="center">Franco Pedro Zanier</h1>
-<h3 align="center">Software Engineer | Backend & Fullstack Developer | Clean Architecture Advocate</h3>
+<h3 align="center">Software Developer |  Clean Architecture Advocate</h3>
 
 ---
 
 ###  About Me
 
-I'm a software engineer passionate about building scalable and maintainable web applications.  
+I'm a software developer passionate about building scalable and maintainable web applications.  
 While I specialize in backend development (Node.js, Java Spring Boot), I also have experience building fullstack solutions with React.
 
 My focus is on clean code, modular architecture, testing, and efficient team workflows (CI/CD, Git, code reviews, documentation, etc).
