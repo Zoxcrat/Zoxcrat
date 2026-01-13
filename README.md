@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Franco Pedro Zanier</h1>
-<h3 align="center">Software Developer |  Clean Architecture Advocate</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
@@ -84,15 +84,11 @@ Check some of my public projects below!
 🏗️ Architecture & Best Practices
 🧱 Clean Architecture, DDD, TDD, SOLID principles
 
-🔗 RESTful API Design & Authentication (JWT, OAuth 2.0)
+🔗 RESTful API Design & Authentication (JWT)
 
 🔧 Swagger for API Documentation
 
 🧪 Testing: Unit, Integration, E2E
-
-🧩 Microservices & Modular Monoliths
-
-🔄 Agile: Scrum / Kanban
 
 📦 CI/CD with GitHub Actions
   
