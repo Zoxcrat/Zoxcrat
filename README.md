@@ -97,7 +97,7 @@ Check some of my public projects below!
   <img src="https://res.cloudinary.com/dqsrs3fpv/image/upload/v1752683932/portada_orbyte_lnvnxp.png" alt="Orbyte Banner" width="100%" />
 </p>
 
-<h2 align="center">🛰️ Orbyte – My Studio/Startup</h2>
+<h2 align="center">🛰️ Orbyte – My Studio</h2>
 
 <p align="center">
   At <strong>Orbyte</strong>, we build scalable digital products with a focus on clean architecture,<br>
