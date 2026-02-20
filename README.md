@@ -82,7 +82,7 @@ Check some of my public projects below!
 <br/>
 
 🏗️ Architecture & Best Practices
-🧱 Clean Architecture, DDD, TDD, SOLID principles
+🧱 Clean Architecture, SOLID principles, Design patterns
 
 🔗 RESTful API Design & Authentication (JWT)
 
@@ -90,7 +90,6 @@ Check some of my public projects below!
 
 🧪 Testing: Unit, Integration, E2E
 
-📦 CI/CD with GitHub Actions
   
 ---
 
