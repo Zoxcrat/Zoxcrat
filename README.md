@@ -11,9 +11,9 @@
 ###  About Me
 
 I'm a software developer passionate about building scalable and maintainable web applications.  
- I specialize in fullstack development (Node.js, Java Spring Boot, React)
+ I specialize in fullstack development (Java Spring Boot, Node.js, React)
 
-My focus is on clean code, modular architecture, testing, and efficient team workflows (CI/CD, Git, code reviews, documentation, etc).
+My focus is on clean code, modular architecture, testing, and efficient team workflows (Git, code reviews, documentation, etc).
 
 Check some of my public projects below!
 
